@@ -1,5 +1,6 @@
-# FizzBuzz-Challenge
+# Ruby Stuffs
 
+1. FizzBuzz Challenge
 So, I decided to take up the challenge to do the FizzBuzz test in Ruby which turned out to be simple. 
 
 An example of a Fizz-Buzz question is the following:
